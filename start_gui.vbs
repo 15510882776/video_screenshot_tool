@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run """D:\video_screenshot_tool\start_gui.bat""", 0, True

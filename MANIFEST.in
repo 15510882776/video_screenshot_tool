@@ -1,0 +1,12 @@
+include README.md
+include README_en.md
+include LICENSE
+include CHANGELOG.md
+include CHANGELOG_en.md
+include CONTRIBUTING.md
+include CONTRIBUTING_en.md
+include CODE_OF_CONDUCT.md
+include CODE_OF_CONDUCT_en.md
+include requirements.txt
+include icon.svg
+recursive-include tessdata *
